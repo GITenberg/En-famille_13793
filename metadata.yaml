@@ -1,0 +1,33 @@
+_repo: En-famille_13793
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Malot, Hector
+    alias: Malot, Hector-Henri
+    birthdate: 1830
+    deathdate: 1907
+    gutenberg_agent_id: '1350'
+    url: http://www.gutenberg.org/2009/agents/1350
+    wikipedia: http://en.wikipedia.org/wiki/Hector_Malot
+description: ''
+gutenberg_bookshelf: FR Jeunesse
+gutenberg_issued: '2004-10-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13793'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Grandfathers -- Fiction'
+- !lcsh 'France -- History -- 19th century -- Fiction'
+- !lcsh 'Adventure and adventurers -- Fiction'
+- !lcsh 'Orphans -- Fiction'
+- !lcc 'PZ'
+- !lcc 'PQ'
+title: En famille
+url: http://www.gutenberg.org/ebooks/13793
